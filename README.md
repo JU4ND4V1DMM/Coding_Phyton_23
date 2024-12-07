@@ -1,2 +1,1 @@
-# Coding_Phyton_23
-Python Coding Units: Master the art of data manipulation and organization through hands-on coding units. Explore the intricacies of sorting algorithms, delve into data structures, and elevate your Python skills. Unlock the secrets of efficient coding and gain the expertise needed to tackle complex data challenges with ease.
+A collection of practical notebooks designed to help you master data manipulation and organization. Whether you're exploring sorting algorithms, working with data structures, or tackling complex challenges, these resources aim to support anyone looking to sharpen their Python skills. Feel free to explore, learn, and share with anyone who might find them useful!
